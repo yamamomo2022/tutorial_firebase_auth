@@ -1,0 +1,25 @@
+{
+  "name": "tutorial_firebase_auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yamamomo2022/tutorial_firebase_auth.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/yamamomo2022/tutorial_firebase_auth/issues"
+  },
+  "homepage": "https://github.com/yamamomo2022/tutorial_firebase_auth#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "firebase-admin": "^13.1.0"
+  }
+}
